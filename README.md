@@ -22,6 +22,10 @@ This repository contains a collection of Java language exercises.
 
 **10.** [EqualNotEqual.java](https://github.com/camillekokoko/java_lang/blob/main/EqualNotEqual.java)
 
+**11.** [GreaterThanEqualTo.java](https://github.com/camillekokoko/java_lang/blob/main/GreaterThanEqualTo.java)
+
+
+
 Compile
 ```
   javac <filename>.java
