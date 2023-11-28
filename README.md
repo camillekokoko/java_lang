@@ -2,8 +2,7 @@
 
 This repository contains a collection of Java language exercises.
 
-1. **HelloWorld.java**
-   - [Code](https://github.com/camillekokoko/java_lang/blob/main/HelloWorld.java)
+**1.** [HelloWorld.java](https://github.com/camillekokoko/java_lang/blob/main/HelloWorld.java)
 
 2. **HideAndSeek.java**
    - [Code](https://github.com/camillekokoko/java_lang/blob/main/HideAndSeek.java)
