@@ -20,6 +20,8 @@ This repository contains a collection of Java language exercises.
 
 **9.** [GreaterLessThan.java](https://github.com/camillekokoko/java_lang/blob/main/GreaterLessThan.java)
 
+**10.** [EqualNotEqual.java](https://github.com/camillekokoko/java_lang/blob/main/EqualNotEqual.java)
+
 Compile
 ```
   javac <filename>.java
