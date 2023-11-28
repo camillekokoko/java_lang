@@ -36,7 +36,7 @@ This repository contains a collection of Java language exercises.
 
 **17.classes and objects** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
 
-**18.methods** [SavingAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingAccount.java)
+**18.methods** [SavingsAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount.java)
 
 Compile
 ```
