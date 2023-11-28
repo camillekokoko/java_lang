@@ -18,6 +18,7 @@ This repository contains a collection of Java language exercises.
 
 **8.** [BakeSale.java](https://github.com/camillekokoko/java_lang/blob/main/BakeSale.java)
 
+**9.** [GreaterLessThan.java](https://github.com/camillekokoko/java_lang/blob/main/GreaterLessThan.java)
 
 Compile
 ```
