@@ -8,11 +8,9 @@ This repository contains a collection of Java language exercises.
 
 **3.** [Review.java](https://github.com/camillekokoko/java_lang/blob/main/Review.java)
 
-**4.** [MyProfile.java]
-(https://github.com/camillekokoko/java_lang/blob/main/MyProfile.java)
+**4.** [MyProfile.java](https://github.com/camillekokoko/java_lang/blob/main/MyProfile.java)
 
-5. **Exercise5.java**
-   - [Code](https://github.com/camillekokoko/java_lang/blob/main/Exercise5.java)
+**5.** [MadLibs.java](https://github.com/camillekokoko/java_lang/blob/main/MadLibs.java)
 
 Compile
 ```
