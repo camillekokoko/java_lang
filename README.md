@@ -34,6 +34,8 @@ This repository contains a collection of Java language exercises.
 
 **16.classes and objects** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Store.java)
 
+**16.classes and objects** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
+
 Compile
 ```
   javac <filename>.java
