@@ -4,7 +4,7 @@ This repository contains a collection of Java language exercises.
 
 **1.** [HelloWorld.java](https://github.com/camillekokoko/java_lang/blob/main/HelloWorld.java)
 
-**2.** [HideAndSeek.java(https://github.com/camillekokoko/java_lang/blob/main/HideAndSeek.java)
+**2.** [HideAndSeek.java](https://github.com/camillekokoko/java_lang/blob/main/HideAndSeek.java)
 
 **3.** [Review.java](https://github.com/camillekokoko/java_lang/blob/main/Review.java)
 
