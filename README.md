@@ -11,3 +11,10 @@ A successful compilation produces an executable class. Run the .class file:
 ```
 
 An unsuccessful compilation produces ERRORS and EXCEPTIONS
+
+Exercises:
+1. 
+2. 
+3. 
+4. 
+5. 
