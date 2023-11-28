@@ -10,4 +10,4 @@ A successful compilation produces a .class file
   java <filename>
 ```
 
-An unsuccessful compilation produces a list of errors
+An unsuccessful compilation produces ERRORS and EXCEPTIONS
