@@ -14,8 +14,9 @@ This repository contains a collection of Java language exercises.
 
 **6.** [MultAndDivide.java](https://github.com/camillekokoko/java_lang/blob/main/MultAndDivide.java)
 
+**7.** [Modulo.java](https://github.com/camillekokoko/java_lang/blob/main/Modulo.java)
 
-**6.** [Modulo.java](https://github.com/camillekokoko/java_lang/blob/main/Modulo.java)
+**8.** [BakeSale.java](https://github.com/camillekokoko/java_lang/blob/main/BakeSale.java)
 
 
 Compile
