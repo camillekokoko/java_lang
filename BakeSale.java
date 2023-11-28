@@ -6,3 +6,10 @@ public class BakeSale {
     System.out.println(numCookies);
 	}
 }
+/*
+Addition (+=)
+Subtraction (-=)
+Multiplication (*=)
+Division (/=)
+Modulo (%=)
+*/
