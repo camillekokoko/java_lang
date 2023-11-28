@@ -24,8 +24,9 @@ This repository contains a collection of Java language exercises.
 
 **11.** [GreaterThanEqualTo.java](https://github.com/camillekokoko/java_lang/blob/main/GreaterThanEqualTo.java)
 
-**11.** [Equals.java](https://github.com/camillekokoko/java_lang/blob/main/Equals.java)
+**12.** [Equals.java](https://github.com/camillekokoko/java_lang/blob/main/Equals.java)
 
+**13.** [Final.java](https://github.com/camillekokoko/java_lang/blob/main/Final.java)
 
 
 
