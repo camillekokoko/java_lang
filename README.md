@@ -32,6 +32,7 @@ This repository contains a collection of Java language exercises.
 
 **15.** [Magic.java](https://github.com/camillekokoko/java_lang/blob/main/Magic.java)
 
+**16.class and method** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Magic.java)
 
 Compile
 ```
