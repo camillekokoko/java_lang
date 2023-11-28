@@ -12,7 +12,7 @@ This repository contains a collection of Java language exercises.
 
 **5.** [MadLibs.java](https://github.com/camillekokoko/java_lang/blob/main/MadLibs.java)
 
-**6.** [MultAndDivide.java](https://github.com/camillekokoko/java_lang/MultAndDivide.java)
+**6.** [MultAndDivide.java](https://github.com/camillekokoko/java_lang/blob/main/MultAndDivide.java)
 
 
 Compile
