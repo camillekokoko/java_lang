@@ -72,4 +72,9 @@ A successful compilation produces an executable class. Run the .class file:
 
 An unsuccessful compilation produces ERRORS and EXCEPTIONS
 
+If there is an argument:
+```
+java <filename> <arg> (args[0])
+```
+
 
