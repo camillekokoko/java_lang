@@ -1,3 +1,5 @@
+// A Simple Car Loan Payment Calculator
+
 public class CarLoan {
   int carLoan;
   int loanLength;
