@@ -54,6 +54,9 @@ This repository contains a collection of Java language exercises.
 
 **26.condition** [Continents.java](https://github.com/camillekokoko/java_lang/blob/main/Continents.java)
 
+**27.arrays and arraylists** [Newsfeed.java](https://github.com/camillekokoko/java_lang/blob/main/Newsfeed.java)
+
+
 
 
 
