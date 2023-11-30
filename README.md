@@ -48,6 +48,7 @@ This repository contains a collection of Java language exercises.
 
 **23.condition** [Order_switch.java](https://github.com/camillekokoko/java_lang/blob/main/Order_switch.java)
 
+**24.condition** [Reservation.java](https://github.com/camillekokoko/java_lang/blob/main/Reservation.java)
 
 
 
