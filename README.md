@@ -58,7 +58,7 @@ This repository contains a collection of Java language exercises.
 
 **28.arrays** [Classroom.java](https://github.com/camillekokoko/java_lang/blob/main/Classroom.java)
 
-
+**29.arrays** [ToDos.java](https://github.com/camillekokoko/java_lang/blob/main/ToDos.java)
 
 
 
