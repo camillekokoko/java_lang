@@ -50,6 +50,8 @@ This repository contains a collection of Java language exercises.
 
 **24.condition** [Reservation.java](https://github.com/camillekokoko/java_lang/blob/main/Reservation.java)
 
+**25.condition** [CarLoan.java](https://github.com/camillekokoko/java_lang/blob/main/CarLoan.java)
+
 
 
 Compile
