@@ -60,6 +60,7 @@ This repository contains a collection of Java language exercises.
 
 **29.arraylist** [ToDos.java](https://github.com/camillekokoko/java_lang/blob/main/ToDos.java)
 
+**30.arraylist** [detectiveToDos.java](https://github.com/camillekokoko/java_lang/blob/main/detectiveToDos.java)
 
 
 Compile
