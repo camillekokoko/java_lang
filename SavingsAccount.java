@@ -1,12 +1,20 @@
 public class SavingsAccount {
   
   int balance;
+  String name;
+  String branch;
+  int accountNum;
   
-  public SavingsAccount(int initialBalance){
+  public SavingsAccount(int initialBalance, String accountName, String accountBranch, int accountNum){
     balance = initialBalance;
+    name = accountName;
+    branch = accountBranch;
+    accountNum = accountNum;
   }
 
-  
+  public String toString(){
+    return name + "" + branch + "" + accountNum;
+  }
   public void checkBalance(){
     System.out.println("Hello!");
     System.out.println("Your balance is "+ balance);
@@ -24,7 +32,9 @@ public class SavingsAccount {
   }
 
   public static void main(String[] args){
-    SavingsAccount savings = new SavingsAccount(2000);
+    SavingsAccount savings = new SavingsAccount(2000, "Alex", "Adelaide", 123456);
+
+    System.out.println(savings);
   
     //Check balance:
     savings.checkBalance();
@@ -46,6 +56,7 @@ public class SavingsAccount {
     savings.checkBalance();    
   }       
 }
+
 --------------------------------
 
 
