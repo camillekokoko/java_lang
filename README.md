@@ -78,6 +78,9 @@ This repository contains a collection of Java language exercises.
 
 **4.** [MostExpensive.java](https://github.com/camillekokoko/java_lang/blob/main/MostExpensive.java)
 
+**5.** [Lunch.java](https://github.com/camillekokoko/java_lang/blob/main/Lunch.java)
+
+
 Compile
 ```
   javac <filename>.java
