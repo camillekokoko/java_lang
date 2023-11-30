@@ -50,6 +50,16 @@ class ToDos {
     System.out.println(sherlocksToDos.toString() + "\n");
     System.out.println("Poirot's to-do list:");
     System.out.println(poirotsToDos.toString());
+
+      // Remove each to-do below:
+    
+    sherlocksToDos.remove(0);
+    sherlocksToDos.remove(0);
+    poirotsToDos.remove(0);
+
+    System.out.println(sherlocksToDos.toString() + "\n");
+    System.out.println(poirotsToDos.toString());
+  }
   }
 
     
