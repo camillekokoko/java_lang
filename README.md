@@ -40,6 +40,9 @@ This repository contains a collection of Java language exercises.
 
 **19.methods** [Store2.java](https://github.com/camillekokoko/java_lang/blob/main/Store2.java)
 
+**20.methods** [Calculator.java](https://github.com/camillekokoko/java_lang/blob/main/Calculator.java)
+
+
 Compile
 ```
   javac <filename>.java
