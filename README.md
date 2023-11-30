@@ -80,6 +80,7 @@ This repository contains a collection of Java language exercises.
 
 **5.** [Lunch.java](https://github.com/camillekokoko/java_lang/blob/main/Lunch.java)
 
+**6.** [FizzBuzz.java](https://github.com/camillekokoko/java_lang/blob/main/FizzBuzz.java)
 
 Compile
 ```
