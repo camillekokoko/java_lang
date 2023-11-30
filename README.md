@@ -42,6 +42,8 @@ This repository contains a collection of Java language exercises.
 
 **20.methods** [Calculator.java](https://github.com/camillekokoko/java_lang/blob/main/Calculator.java)
 
+**21.methods** [Droid.java](https://github.com/camillekokoko/java_lang/blob/main/Droid.java)
+
 
 Compile
 ```
