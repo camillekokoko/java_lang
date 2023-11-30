@@ -1,7 +1,7 @@
 # Java Language Exercises
 
 This repository contains a collection of Java language exercises.
-
+## Basic
 **1.** [HelloWorld.java](https://github.com/camillekokoko/java_lang/blob/main/HelloWorld.java)
 
 **2.** [HideAndSeek.java](https://github.com/camillekokoko/java_lang/blob/main/HideAndSeek.java)
@@ -32,39 +32,45 @@ This repository contains a collection of Java language exercises.
 
 **15.** [Magic.java](https://github.com/camillekokoko/java_lang/blob/main/Magic.java)
 
-**16.classes and objects** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Store.java)
+## Object-Oriented: Classes and Objects
+**1.classes and objects** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Store.java)
 
-**17.classes and objects** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
+**2.classes and objects** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
 
-**18.methods** [SavingsAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount.java)
+## Object-Oriented: Methods
+**1.** [SavingsAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount.java)
 
-**19.methods** [Store2.java](https://github.com/camillekokoko/java_lang/blob/main/Store2.java)
+**2.** [Store2.java](https://github.com/camillekokoko/java_lang/blob/main/Store2.java)
 
-**20.methods** [Calculator.java](https://github.com/camillekokoko/java_lang/blob/main/Calculator.java)
+**3.** [Calculator.java](https://github.com/camillekokoko/java_lang/blob/main/Calculator.java)
 
-**21.methods** [Droid.java](https://github.com/camillekokoko/java_lang/blob/main/Droid.java)
+**4.** [Droid.java](https://github.com/camillekokoko/java_lang/blob/main/Droid.java)
 
-**22.condition** [Order.java](https://github.com/camillekokoko/java_lang/blob/main/Order.java)
+## Condition
+**1.** [Order.java](https://github.com/camillekokoko/java_lang/blob/main/Order.java)
 
-**23.condition** [Order_switch.java](https://github.com/camillekokoko/java_lang/blob/main/Order_switch.java)
+**2.** [Order_switch.java](https://github.com/camillekokoko/java_lang/blob/main/Order_switch.java)
 
-**24.condition** [Reservation.java](https://github.com/camillekokoko/java_lang/blob/main/Reservation.java)
+**3.** [Reservation.java](https://github.com/camillekokoko/java_lang/blob/main/Reservation.java)
 
-**25.condition** [CarLoan.java](https://github.com/camillekokoko/java_lang/blob/main/CarLoan.java)
+**4.** [CarLoan.java](https://github.com/camillekokoko/java_lang/blob/main/CarLoan.java)
 
-**26.condition** [Continents.java](https://github.com/camillekokoko/java_lang/blob/main/Continents.java)
+**5.** [Continents.java](https://github.com/camillekokoko/java_lang/blob/main/Continents.java)
 
-**27.arrays** [Newsfeed.java](https://github.com/camillekokoko/java_lang/blob/main/Newsfeed.java)
+## Arrays
+**1.** [Newsfeed.java](https://github.com/camillekokoko/java_lang/blob/main/Newsfeed.java)
 
-**28.arrays** [Classroom.java](https://github.com/camillekokoko/java_lang/blob/main/Classroom.java)
+**2.** [Classroom.java](https://github.com/camillekokoko/java_lang/blob/main/Classroom.java)
 
-**29.arraylist** [ToDos.java](https://github.com/camillekokoko/java_lang/blob/main/ToDos.java)
+## ArrayLists
+**1.** [ToDos.java](https://github.com/camillekokoko/java_lang/blob/main/ToDos.java)
 
-**30.arraylist** [detectiveToDos.java](https://github.com/camillekokoko/java_lang/blob/main/detectiveToDos.java)
+**2.** [detectiveToDos.java](https://github.com/camillekokoko/java_lang/blob/main/detectiveToDos.java)
 
-**31.arraylist** [Playlist.java](https://github.com/camillekokoko/java_lang/blob/main/Playlist.java)
+**3.** [Playlist.java](https://github.com/camillekokoko/java_lang/blob/main/Playlist.java)
 
-
+## Loops
+**1.** [LuckyFive.java](https://github.com/camillekokoko/java_lang/blob/main/LuckyFive.java)
 
 Compile
 ```
