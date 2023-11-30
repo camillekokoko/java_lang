@@ -44,6 +44,9 @@ This repository contains a collection of Java language exercises.
 
 **21.methods** [Droid.java](https://github.com/camillekokoko/java_lang/blob/main/Droid.java)
 
+**21.condition** [Order.java](https://github.com/camillekokoko/java_lang/blob/main/Order.java)
+
+
 
 Compile
 ```
