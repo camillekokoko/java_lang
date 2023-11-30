@@ -25,22 +25,25 @@ public class Order {
     double shippingCost;
 	 	// declare switch statement here
     switch (shipping) {
-      case "Regular":
+      case "Regular": 
         shippingCost = 0;
+        break;
       case "Express":
         shippingCost = 1.75;
-    default:
-      shippingCost = 0.50;
-    }
-    
-    return shippingCost;
- 	}
+        break;
+      default:
+        shippingCost = 0.50;
+        break;
+      
+ 	  }
+  return shippingCost;
+  }
   
   public static void main(String[] args) {
     // do not alter the main method!
     Order book = new Order(true, 9.99, "Express");
     Order chemistrySet = new Order(false, 72.50, "Regular");
-    
+  
     book.ship();
     chemistrySet.ship();
   }
