@@ -33,9 +33,9 @@ This repository contains a collection of Java language exercises.
 **15.** [Magic.java](https://github.com/camillekokoko/java_lang/blob/main/Magic.java)
 
 ## Object-Oriented: Classes and Objects
-**1.classes and objects** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Store.java)
+**1.** [Store.java](https://github.com/camillekokoko/java_lang/blob/main/Store.java)
 
-**2.classes and objects** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
+**2.** [Dog.java](https://github.com/camillekokoko/java_lang/blob/main/Dog.java)
 
 ## Object-Oriented: Methods
 **1.** [SavingsAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount.java)
