@@ -72,6 +72,9 @@ This repository contains a collection of Java language exercises.
 ## Loops
 **1.** [LuckyFive.java](https://github.com/camillekokoko/java_lang/blob/main/LuckyFive.java)
 
+**2.** [Coffee.java](https://github.com/camillekokoko/java_lang/blob/main/Coffee.java)
+
+
 Compile
 ```
   javac <filename>.java
