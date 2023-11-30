@@ -84,6 +84,7 @@ This repository contains a collection of Java language exercises.
 
 **7.** [PrimeDirective.java](https://github.com/camillekokoko/java_lang/blob/main/PrimeDirective.java)
 
+## String Method
 
 Compile
 ```
