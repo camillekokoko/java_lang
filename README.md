@@ -76,6 +76,8 @@ This repository contains a collection of Java language exercises.
 
 **3.** [Numbers.java](https://github.com/camillekokoko/java_lang/blob/main/Numbers.java)
 
+**4.** [MostExpensive.java](https://github.com/camillekokoko/java_lang/blob/main/MostExpensive.java)
+
 Compile
 ```
   javac <filename>.java
