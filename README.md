@@ -52,6 +52,9 @@ This repository contains a collection of Java language exercises.
 
 **25.condition** [CarLoan.java](https://github.com/camillekokoko/java_lang/blob/main/CarLoan.java)
 
+**26.condition** [Continents.java](https://github.com/camillekokoko/java_lang/blob/main/Continents.java)
+
+
 
 
 Compile
