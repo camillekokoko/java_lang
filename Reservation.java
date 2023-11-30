@@ -41,3 +41,5 @@ public class Reservation {
     partyOfFour.informUser();
   }
 }
+
+// The order of evaluation is: the NOT operator (!) -> the AND operator (&&) -> the OR operator (||)
