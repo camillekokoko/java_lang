@@ -56,6 +56,8 @@ This repository contains a collection of Java language exercises.
 
 **27.arrays** [Newsfeed.java](https://github.com/camillekokoko/java_lang/blob/main/Newsfeed.java)
 
+**28.arrays** [Classroom.java](https://github.com/camillekokoko/java_lang/blob/main/Classroom.java)
+
 
 
 
