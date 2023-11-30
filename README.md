@@ -74,6 +74,7 @@ This repository contains a collection of Java language exercises.
 
 **2.** [Coffee.java](https://github.com/camillekokoko/java_lang/blob/main/Coffee.java)
 
+**3.** [Numbers.java](https://github.com/camillekokoko/java_lang/blob/main/Numbers.java)
 
 Compile
 ```
