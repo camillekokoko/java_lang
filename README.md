@@ -38,6 +38,8 @@ This repository contains a collection of Java language exercises.
 
 **18.methods** [SavingsAccount.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount.java)
 
+**19.methods** [Store2.java](https://github.com/camillekokoko/java_lang/blob/main/Store2.java)
+
 Compile
 ```
   javac <filename>.java
