@@ -94,6 +94,11 @@ This repository contains a collection of Java language exercises.
 
 **4.** [Initials.java](https://github.com/camillekokoko/java_lang/blob/main/Initials.java)
 
+**5.** [Poetry.java](https://github.com/camillekokoko/java_lang/blob/main/Poetry.java)
+
+
+
+
 Compile
 ```
   javac <filename>.java
