@@ -90,6 +90,10 @@ This repository contains a collection of Java language exercises.
 
 **2.** [CombineNames.java](https://github.com/camillekokoko/java_lang/blob/main/CombineNames.java)
 
+**3.** [MorseCode.java](https://github.com/camillekokoko/java_lang/blob/main/MorseCode.java)
+
+**4.** [Initials.java](https://github.com/camillekokoko/java_lang/blob/main/Initials.java)
+
 Compile
 ```
   javac <filename>.java
