@@ -86,6 +86,10 @@ This repository contains a collection of Java language exercises.
 
 ## String Method
 
+**1.** [TweetCounter.java](https://github.com/camillekokoko/java_lang/blob/main/TweetCounter.java)
+
+**2.** [CombineNames.java](https://github.com/camillekokoko/java_lang/blob/main/CombineNames.java)
+
 Compile
 ```
   javac <filename>.java
