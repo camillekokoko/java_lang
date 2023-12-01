@@ -96,6 +96,7 @@ This repository contains a collection of Java language exercises.
 
 **5.** [Poetry.java](https://github.com/camillekokoko/java_lang/blob/main/Poetry.java)
 
+**6.** [Hashtag.java](https://github.com/camillekokoko/java_lang/blob/main/Hashtag.java)
 
 
 
