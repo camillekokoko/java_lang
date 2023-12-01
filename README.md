@@ -98,6 +98,8 @@ This repository contains a collection of Java language exercises.
 
 **6.** [Hashtag.java](https://github.com/camillekokoko/java_lang/blob/main/Hashtag.java)
 
+**7.** [DNA.java](https://github.com/camillekokoko/java_lang/blob/main/DNA.java)
+
 
 
 Compile
