@@ -1,3 +1,14 @@
+/*
+length()
+concat()
+equals()
+indexOf()
+charAt()
+substring()
+toUpperCase() / toLowerCase()
+*/
+
+
 public class CombineNames {
   
 	public static void main(String[] args) {
