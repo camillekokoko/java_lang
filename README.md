@@ -105,6 +105,9 @@ This repository contains a collection of Java language exercises.
 
 **2.** [Private keyword](private_keyword)
 
+**3.** [Getter Setter](getter_setter)
+
+
 
 
 
