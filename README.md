@@ -109,6 +109,11 @@ This repository contains a collection of Java language exercises.
 
 **4.** [SavingsAccount_this.java](https://github.com/camillekokoko/java_lang/blob/main/SavingsAccount_this.java)
 
+**5.** [Person.java](https://github.com/camillekokoko/java_lang/blob/main/Person.java)
+
+## Static Variables and Methods
+
+
 
 
 
