@@ -101,7 +101,7 @@ This repository contains a collection of Java language exercises.
 **7.** [DNA.java](https://github.com/camillekokoko/java_lang/blob/main/DNA.java)
 
 ## Access, Encapsulation, and Scope
-**1.** [Bank.java](https://github.com/camillekokoko/java_lang/blob/main/Bank.java)
+**1.** [Public keyword](public_keyword)
 
 
 
