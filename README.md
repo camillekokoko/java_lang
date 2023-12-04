@@ -103,6 +103,9 @@ This repository contains a collection of Java language exercises.
 ## Access, Encapsulation, and Scope
 **1.** [Public keyword](public_keyword)
 
+**2.** [Private keyword](private_keyword)
+
+
 
 
 Compile
