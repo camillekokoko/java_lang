@@ -115,7 +115,7 @@ This repository contains a collection of Java language exercises.
 
 **1.** [Inheritance](Inheritance)
 
-
+**2.** [Super](Super)
 
 
 
