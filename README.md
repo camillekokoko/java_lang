@@ -119,6 +119,13 @@ This repository contains a collection of Java language exercises.
 
 **3.** [Protected](Protected)
 
+## 2D arrays
+
+**1.** [Exc](Inheritance)
+
+
+
+
 
 
 
