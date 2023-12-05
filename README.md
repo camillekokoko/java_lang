@@ -121,7 +121,7 @@ This repository contains a collection of Java language exercises.
 
 ## 2D arrays
 
-**1.** [Exc](Inheritance)
+**1.** [Exercise2](Exercise2)
 
 
 
