@@ -123,8 +123,9 @@ This repository contains a collection of Java language exercises.
 
 **1.** [Exercise2](Exercise2)
 
-**7.** [Exercise3.java](https://github.com/camillekokoko/java_lang/blob/main/Exercise3.java)
+**2.** [Exercise3.java](https://github.com/camillekokoko/java_lang/blob/main/Exercise3.java)
 
+**3.** [Modifying.java](https://github.com/camillekokoko/java_lang/blob/main/Modifying.java)
 
 
 
