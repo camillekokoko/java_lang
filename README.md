@@ -127,8 +127,10 @@ This repository contains a collection of Java language exercises.
 
 **3.** [Modifying.java](https://github.com/camillekokoko/java_lang/blob/main/Modifying.java)
 
+**4.** [NestedLoops.java](https://github.com/camillekokoko/java_lang/blob/main/NestedLoops.java)
 
-
+**5.** [2D Arrays: Image Manipulation Project
+.java](https://github.com/camillekokoko/java_lang/blob/main/ImageProcessing.java)
 
 
 
