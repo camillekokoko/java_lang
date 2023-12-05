@@ -111,7 +111,11 @@ This repository contains a collection of Java language exercises.
 
 **5.** [Person.java](https://github.com/camillekokoko/java_lang/blob/main/Person.java)
 
-## Static Variables and Methods
+## Inheritance
+
+**1.** [Inheritance]()
+
+
 
 
 
