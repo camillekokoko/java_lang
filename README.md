@@ -113,7 +113,7 @@ This repository contains a collection of Java language exercises.
 
 ## Inheritance
 
-**1.** [Inheritance]()
+**1.** [Inheritance](Inheritance)
 
 
 
